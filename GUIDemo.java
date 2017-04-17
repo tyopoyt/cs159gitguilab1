@@ -63,7 +63,7 @@ public class GUIDemo extends JFrame
                 setSize(size.width - 10, size.height - 10);
             } else
             {
-                setShape(size.width + 100, size.height +100);
+                setShape(size.width + 500, size.height + 500);
             }
 
         }
